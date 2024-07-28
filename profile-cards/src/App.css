@@ -1,0 +1,7 @@
+/* src/App.css */
+@media (max-width: 600px) {
+  .MuiGrid-item {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
